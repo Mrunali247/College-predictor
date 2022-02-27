@@ -1,0 +1,92 @@
+---------- YOUR PREFERENCE LIST ----------
+
+1)College:: National Institute of Technology Karnataka Surathkal 
+  Branch:: Computer Science and Engineering (4 Years Bachelor of Technology) 
+
+2)College:: Motilal Nehru National Institute of Technology Allahabad 
+  Branch:: Computer Science and Engineering (4 Years Bachelor of Technology) 
+
+3)College:: Malaviya National Institute of Technology Jaipur 
+  Branch:: Computer Science and Engineering (4 Years Bachelor of Technology) 
+
+4)College:: National Institute of Technology Karnataka Surathkal 
+  Branch:: Artificial Intelligence (4 Years Bachelor of Technology) 
+
+5)College:: National Institute of Technology Calicut 
+  Branch:: Computer Science and Engineering (4 Years Bachelor of Technology) 
+
+6)College:: Indian Institute of Information Technology Allahabad 
+  Branch:: Information Technology (4 Years Bachelor of Technology) 
+
+7)College:: National Institute of Technology Karnataka Surathkal 
+  Branch:: Information Technology (4 Years Bachelor of Technology) 
+
+8)College:: National Institute of Technology Karnataka Surathkal 
+  Branch:: Electronics and Communication Engineering (4 Years Bachelor of Technology) 
+
+9)College:: National Institute of Technology Durgapur 
+  Branch:: Computer Science and Engineering (4 Years Bachelor of Technology) 
+
+10)College:: National Institute of Technology Delhi 
+  Branch:: Computer Science and Engineering (4 Years Bachelor of Technology) 
+
+11)College:: National Institute of Technology Hamirpur 
+  Branch:: Computer Science and Engineering (4 Years Bachelor of Technology) 
+
+12)College:: Motilal Nehru National Institute of Technology Allahabad 
+  Branch:: Electronics and Communication Engineering (4 Years Bachelor of Technology) 
+
+13)College:: Malaviya National Institute of Technology Jaipur 
+  Branch:: Electronics and Communication Engineering (4 Years Bachelor of Technology) 
+
+14)College:: Maulana Azad National Institute of Technology Bhopal 
+  Branch:: Computer Science and Engineering (4 Years Bachelor of Technology) 
+
+15)College:: National Institute of Technology Calicut 
+  Branch:: Electronics and Communication Engineering (4 Years Bachelor of Technology) 
+
+16)College:: Indian Institute of Information Technology Allahabad 
+  Branch:: Information Technology-Business Informatics (4 Years Bachelor of Technology) 
+
+17)College:: National Institute of Technology Karnataka Surathkal 
+  Branch:: Civil Engineering (4 Years Bachelor of Technology) 
+
+18)College:: Atal Bihari Vajpayee Indian Institute of Information Technology &Management Gwalior 
+  Branch:: Computer Science and Engineering (4 Years Bachelor of Technology) 
+
+19)College:: National Institute of Technology Karnataka Surathkal 
+  Branch:: Electrical and Electronics Engineering (4 Years Bachelor of Technology) 
+
+20)College:: Indian Institute of Information Technology Allahabad 
+  Branch:: Electronics and Communication Engineering (4 Years Bachelor of Technology) 
+
+21)College:: Dr. B R Ambedkar National Institute of Technology Jalandhar 
+  Branch:: Computer Science and Engineering (4 Years Bachelor of Technology) 
+
+22)College:: National Institute of Technology Goa 
+  Branch:: Computer Science and Engineering (4 Years Bachelor of Technology) 
+
+23)College:: National Institute of Technology Jamshedpur 
+  Branch:: Computer Science and Engineering (4 Years Bachelor of Technology) 
+
+24)College:: National Institute of Technology Calicut 
+  Branch:: Electrical and Electronics Engineering (4 Years Bachelor of Technology) 
+
+25)College:: Pt. Dwarka PrasadMishra Indian Institute of Information Technology Design &Manufacture Jabalpur 
+  Branch:: Computer Science and Engineering (4 Years Bachelor of Technology) 
+
+26)College:: Indian Institute of Information Technology Lucknow 
+  Branch:: Computer Science and Artificial Intelligence (4 Years Bachelor of Technology) 
+
+27)College:: Indian Institute of Information Technology Lucknow 
+  Branch:: Computer Science (4 Years Bachelor of Technology) 
+
+28)College:: Atal Bihari Vajpayee Indian Institute of Information Technology &Management Gwalior 
+  Branch:: Integrated B. Tech.(IT) andM. Tech (IT) (5 Years Integrated B. Tech. andM. Tech.) 
+
+29)College:: National Institute of Technology Raipur 
+  Branch:: Computer Science and Engineering (4 Years Bachelor of Technology) 
+
+30)College:: National Institute of Technology Durgapur 
+  Branch:: Electronics and Communication Engineering (4 Years Bachelor of Technology) 
+
