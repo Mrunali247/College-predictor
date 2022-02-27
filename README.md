@@ -1,4 +1,4 @@
-# College-predictor
+# College-predictor JEE Mains
 Predicts engineering college based on JEE Mains rank
 
 Steps to get your college list::
